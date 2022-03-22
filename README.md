@@ -3,6 +3,7 @@
 Movies App using Reactjs
 ---
 > ![Website](public/images/screenshotapp.png)
-> ### [LiveWebsite](https://react-usergenerator.netlify.app/)
+> ![Website](public/images/screenshotapp2.png)
+> ### [LiveWebsite](https://react-movies-ap.netlify.app/)
 
 
